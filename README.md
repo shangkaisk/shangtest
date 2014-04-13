@@ -1,3 +1,3 @@
 shangtest
 
-readme 1234
+git test ，do not clone
